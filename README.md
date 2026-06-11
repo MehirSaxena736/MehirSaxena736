@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="70%">
+<img src="banner.gif" width="90%">
 
 # Hi 👋, I'm Mehir Saxena
 
