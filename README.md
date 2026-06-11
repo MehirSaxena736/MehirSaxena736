@@ -206,17 +206,7 @@ Recognized as a Star Performer for impactful contributions.
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehirSaxena736&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehirSaxena736&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
