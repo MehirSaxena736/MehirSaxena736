@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif.gif" width="90%">
+<img src="banner.gif.gif" width="100%" height="500px">
 
 # Hi 👋, I'm Mehir Saxena
 
@@ -65,18 +65,6 @@
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge)
 
 ---
-
-# 🔬 Research Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Computer Vision
-* Neuromorphic Computing
-* Responsible AI
-* Explainable AI
-* Multimodal AI
-* Sustainable AI Systems
 
 
 # 🌐 Connect With Me
