@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="tenor.gif" width="100%" height="500px">
+<img src="tenor.gif" width="1280px" height="320px">
 
 # Hi 👋, I'm Mehir Saxena
 
